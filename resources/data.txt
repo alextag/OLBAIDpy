@@ -1,0 +1,11 @@
+<slot:1>
+<name:Alex>
+<level:2>
+<main:0>
+<off:-1>
+<head:-1>
+<torso:-1>
+<legs:-1>
+<feet:-1>
+<arms:-1>
+<stash:0>
