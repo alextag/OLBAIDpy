@@ -4,3 +4,6 @@ and proceduraly generated content.
 
 ### Libraries used:
 - pyGame
+
+### Instructions:
+- To play the game do: python gameTest.py
